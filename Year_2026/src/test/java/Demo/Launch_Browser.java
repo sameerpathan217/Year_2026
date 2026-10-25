@@ -9,5 +9,6 @@ public class Launch_Browser extends BaseClass {
 	@Test
 	public void browser() {
 		System.out.println("Push code to the new branch smoke");
+		System.out.println("Pull this file back to eclips");
 	}
 }
